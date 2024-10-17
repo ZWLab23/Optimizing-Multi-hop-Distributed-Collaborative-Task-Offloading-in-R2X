@@ -1,0 +1,19 @@
+algo_name: PPO2
+env_name: RSU offloading decision
+continuous: False
+device: cuda
+seed: 0
+train_eps: 200
+test_eps: 30
+batch_size: 4
+gamma: 0.95
+n_epochs: 5
+actor_lr: 0.0001
+critic_lr: 0.0001
+gae_lambda: 0.95
+policy_clip: 0.2
+hidden_dim: 256
+update_fre: 20
+result_path: D:\PyCharm\PyCharmProject\pytorch\Multihop-V2V-predict - upgithub\methods\hop_number/outputs/RSU offloading decision/20241017-085059/results/
+model_path: D:\PyCharm\PyCharmProject\pytorch\Multihop-V2V-predict - upgithub\methods\hop_number/outputs/RSU offloading decision/20241017-085059/models/
+save_fig: True

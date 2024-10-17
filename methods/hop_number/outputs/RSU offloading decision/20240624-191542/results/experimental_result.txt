@@ -1,0 +1,8 @@
+# episode :33, steps :660, rewards :-17741.807571962363, delay :1029.5506646237843, energy consumption :5659.712332961595, completion rate :0.4166666666666667, vehicle :16, rsu :22, cloud :22
+# episode :34, steps :680, rewards :-16766.442826015398, delay :909.0911559664462, energy consumption :5038.513791006521, completion rate :0.45, vehicle :13, rsu :28, cloud :19
+# episode :35, steps :700, rewards :-13792.805082925286, delay :916.5358862711415, energy consumption :4709.390076473863, completion rate :0.55, vehicle :23, rsu :25, cloud :12
+# episode :36, steps :720, rewards :-13748.713809698185, delay :764.4005913591133, energy consumption :4064.0969713469394, completion rate :0.55, vehicle :20, rsu :29, cloud :11
+# episode :37, steps :740, rewards :-13241.934410351852, delay :892.0433554775095, energy consumption :4304.204942412204, completion rate :0.5666666666666667, vehicle :24, rsu :26, cloud :10
+# episode :38, steps :760, rewards :-12855.716827263062, delay :802.6154354480174, energy consumption :4039.1016919443705, completion rate :0.5833333333333334, vehicle :14, rsu :34, cloud :12
+# episode :39, steps :780, rewards :-15365.515501714524, delay :950.2078490518479, energy consumption :4623.4903172194245, completion rate :0.5, vehicle :2, rsu :39, cloud :19
+# episode :40, steps :800, rewards :-16780.282661590154, delay :895.3653772245684, energy consumption :4952.021202421448, completion rate :0.45, vehicle :3, rsu :39, cloud :18

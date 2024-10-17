@@ -1,0 +1,63 @@
+road_range: 600
+road_width: 50
+time_slot_start: 0
+time_slot_end: 19
+Function_min_task_datasize: 4
+Function_max_task_datasize: 6
+Function_task_computing_resource: 300
+Function_min_task_delay: 10
+Function_max_task_delay: 20
+min_rsuself_task_number: 2
+max_rsuself_task_number: 6
+min_rsuself_task_datasize: 4
+max_rsuself_task_datasize: 8
+min_vehicleself_task_number: 1
+max_vehicleself_task_number: 2
+min_vehicleself_task_datasize: 1
+max_vehicleself_task_datasize: 2
+min_vehicle_speed: 40
+max_vehicle_speed: 50
+min_vehicle_compute_ability: 20000
+max_vehicle_compute_ability: 25000
+min_vehicle_energy_consumption: 1e-10
+max_vehicle_energy_consumption: 2e-10
+vehicle_number: 10
+min_vehicle_y_initial_location: 0
+max_vehicle_y_initial_location: 50
+vehicle_x_initial_location: [0, 600]
+rsu_number: 3
+min_rsu_compute_ability: 25000
+max_rsu_compute_ability: 30000
+min_rsu_energy_consumption: 1e-09
+max_rsu_energy_consumption: 2e-09
+rsu_range: 200
+vehicle_range: 150
+r2v_B: 2
+v2v_B: 4
+rsu_p: 5
+vehicle_p: 1
+w: 0.001
+k: 30
+theta: 2
+r2r_rate: 0.5
+r2c_rate: 0.2
+cloud_compute_ability: 30000
+cloud_energy_consumption: 3.0000000000000004e-09
+node_weight: 0.5
+max_diatance: 400
+max_sum_tasks: 50
+collaborateDRL_reward_weight: 0.9
+RSUDRL_reward_weight: 0.9
+lstm_step: 3
+history_data_number: 10
+effect_size_discount: 0.95
+collaborateDRL_punishment: -1000
+RSUDRL_punishment: -500
+seed: 1
+max_hop: 3
+RSUDRL_action_size: 125
+RSUDRL_high: [3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38]
+RSUDRL_low: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+collaborateDRL_action_size: 100
+collaborateDRL_high: [3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38, 3.4028234663852886e+38]
+collaborateDRL_low: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
